@@ -1,0 +1,136 @@
+1) Basic cyber security concept
+____________________________
+
+CIA triad & authenticity, non-repudiation 
+
+CIA stands for confidentiality, integrity, availability and recently authenticity and non-repudiation was added.
+
+Confidentiality: The state of keeping or being kept secret or private.
+Integrity: Integrity provides assurances that data has not been modified, tampered with, or corrupted. Loss of integrity indicates the data is different.
+Availability: Availability in cyber security The final component of the CIA Triad is availability. It means that systems and data are available to individuals when they need it under any circumstances, including power outages or natural disasters.
+Authenticity: Authenticity is assurance that a message, transaction, or other exchange of information is from the source it claims to be from. Authenticity involves proof of identity. We can verify authenticity through authentication
+Non-repudiation: Non-repudiation refers to a situation where a statement's author cannot successfully dispute its authorship or the validity of an associated contract.
+
+2) Attacker motivation
+______________________
+
+> Curiosity
+> Popularity
+> Disruption of business
+> State or Government sponsored attack or political 
+> Revenge
+> Religious
+> Cyber crime
+> Terrorism 
+> Hacktivisim
+
+3) Attack classification
+_________________________
+
+> Passive attack
+> Active attack
+> Closein attack
+> Insider attack
+> Distribution attack
+
+4) Information warfare
+_______________________
+
+> C2
+> Intelligence based
+> Electronics
+> Psychological
+> Hacker
+> Economic
+> Cyberwarfare
+> Strategies
+
+5) Cyber kill chain and 7 phases
+________________________________
+
+> Recon: information gathering eg: email info
+> Weaponization: Creating a payload for the target or finding payload for the target
+> Delivery: Sending weaponized bundle to the target
+> Exploitation: Exploiting the vulnerability to execute code on victim system
+> Installation: Installing malware on assest
+> C2: Command and control (remote access) 
+> Action on objective: Intruder accoplish the goal
+
+6) Common adversarial behaviour
+______________________________
+
+> Internal recon
+> HTTP user agent
+> DNS tunneling
+> Data staging 
+> Powershell
+> C2
+> CLI use
+> Web shell
+
+7) Threat hunting concept
+_________________________
+
+Define threat hunting: Cyber threat hunting is an active cyber defence activity. It is "the process of proactively and iteratively searching through networks to detect and isolate advanced threats that evade existing security solutions."
+
+What is IoC(Indicator of compromise): Indicator of compromise or IOC is a forensic term that refers to the evidence on a device that points out to a security breach. The data of IOC is gathered after a suspicious incident
+
+IoC Categories
+**************
+
+> Email
+
+>Compromised of email atifacts
+>Senders email address
+>Subject line
+>Attachment
+>Links
+
+> Networks
+
+>Artifacts
+>Domain info
+>IP address
+
+> Host based
+
+>Artifacts
+>Filename
+>Hash value
+>Registry entries
+>Drives
+
+> Behavioural
+
+>Artifacts
+>Macros running powershell
+>Service account running commands like a user would
+
+8) What is hacking and different hackers & 5 hacking phases
+___________________________________________________________
+
++ What is hacking?
+
+Hacking is also called as cracking. Hacking is basically doing unauthorized activity on the computer. 
+
+Different hackers?
+
+Script kiddies/Skiddies
+White hat
+Black hat
+Gray hat
+Blue hat
+Red hat
+Hacktivist
+State-sponsored hacker
+Cyber terrorist
+Suicide hacker
+
+[To read more about hackers visit](https://techyrick.com/types-of-hackers/)
+
+Reconnaissance
+Scanning
+Gaining Access
+Maintaining Access
+Clearing Tracks
+
